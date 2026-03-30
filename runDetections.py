@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-# Run detections on all files in the inputVideos directory
+# Run detections on all the files in the inputVideos directory
 for fileName in os.listdir("inputVideos/"):
 	lastDotIndex = fileName.rfind(".")
 	# print(fileName[:lastDotIndex])
