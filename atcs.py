@@ -1,6 +1,6 @@
 import time
 import random
-MAX_GREEN_TIME = 60 #duration in seconds
+MAX_GREEN_TIME = 60 #duration in second
 LANE_ORDER = [1,2,3,4] 
 
 AVERAGE_WAITING_TIME_FOR_ONE_VEHICLE = 1 #duration in seconds
