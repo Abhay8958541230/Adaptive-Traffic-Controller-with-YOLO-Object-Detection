@@ -8,10 +8,7 @@ This project aims to count every vehicle (motorcycle, bus, car, cycle, truck, tr
 Object detection occurs at 4 lanes in real time the Main frame Central hub runs the detection and updates the vehicles count and runs ATCS.
 
 ## Authors
-- [Karthik Rao](https://github.com/karthikrao117)
-- [Sachin Kumar]()
-- [Ashima Dujeja]()
-- [Gaurav Keshwani]()
+- Abhay Pratap Rathore 
 
 
 
