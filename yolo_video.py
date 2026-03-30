@@ -44,7 +44,7 @@ def displayVehicleCount(frame, vehicle_count,lane):
 		cv2.FONT_HERSHEY_COMPLEX_SMALL,
 		)
 
-# PURPOSE: Determining if the box-mid point cross the line or are within the range of 5 units
+# PURPOSE: Determining if the box-mid point - cross the line or are within the range of 5 units
 # from the line
 # PARAMETERS: X Mid-Point of the box, Y mid-point of the box, Coordinates of the line 
 # RETURN: 
