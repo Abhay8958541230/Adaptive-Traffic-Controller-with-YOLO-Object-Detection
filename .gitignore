@@ -1,4 +1,5 @@
 *.mkv
 *.mov
 *.avi
+*.jpg
 __pycache__/**
