@@ -10,7 +10,7 @@ import os
 # - Path to the input video
 # - Path to the output video
 # - Confidence value
-# - Threshold value
+# - Threshold valu
 def parseCommandLineArguments():
 	# construct the argument parse and parse the arguments
 	ap = argparse.ArgumentParser()
